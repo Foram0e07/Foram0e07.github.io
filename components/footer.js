@@ -161,22 +161,12 @@ export default function Footer({ primaryLinks, secondaryLinks }) {
             <SocialMediaLink
               title="LinkedIn"
               icon={LinkedInIcon}
-              href="https://linkedin.com/company/hygraph"
-            />
-            <SocialMediaLink
-              title="Slack"
-              icon={SlackIcon}
-              href="https://slack.hygraph.com"
-            />
-            <SocialMediaLink
-              title="Twitter"
-              icon={TwitterIcon}
-              href="https://twitter.com/Hygraphcom"
+              href="https://linkedin.com/in/foram-shah-6a59b026b/"
             />
             <SocialMediaLink
               title="GitHub"
               icon={GithubIcon}
-              href="https://github.com/Hygraph/reference-nextjs-marketing"
+              href="https://github.com/Foram0e07/marketing-website"
             />
           </Stack>
 
@@ -186,7 +176,7 @@ export default function Footer({ primaryLinks, secondaryLinks }) {
             color="gray.400"
             order={{ md: 1 }}
           >
-            &copy; {new Date().getFullYear()} GraphCMS GmbH All rights reserved.
+            &copy; {new Date().getFullYear()} Foram Shah
           </Text>
         </Box>
       </Box>
