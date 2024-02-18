@@ -23,7 +23,7 @@ Inside of your `.env.local` file, provide values for the variable. These variabl
 HYGRAPH_ENDPOINT=
 ```
 
-<!-- 3. **Start building!** -->
+**Start building!** 
 
 ```shell
 yarn dev
