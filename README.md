@@ -12,20 +12,12 @@
 1. Clone the repository and install project dependencies
 
 ```shell
-npx degit Hygraph/reference-marketing-website#main reference-marketing-website
-cd reference-marketing-website
+npx degit Foram0e07/marketing-website#main marketing-website
+cd marketing-website
 yarn
 ```
 
-<!-- 2. **Provide your Hygraph project keys** -->
-
-Navigate into your new site’s directory and copy the `.env.local.example` file.
-
-```shell
-cp .env.local.example .env.local
-```
-
-Inside of your newly created `.env.local` file, provide values for the variable. These variables can be found in the [project settings UI](https://hygraph.com/docs/guides/concepts/apis#working-with-apis).
+Inside of your `.env.local` file, provide values for the variable. These variables can be found in the [project settings UI](https://hygraph.com/docs/guides/concepts/apis#working-with-apis).
 
 ```env
 HYGRAPH_ENDPOINT=
