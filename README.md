@@ -1,4 +1,4 @@
-# reference-marketing-website
+# marketing-website
 
 > A [Next.js](https://nextjs.org/) starter for creating a SaaS Marketing Website with [Hygraph](https://hygraph.com)
 
